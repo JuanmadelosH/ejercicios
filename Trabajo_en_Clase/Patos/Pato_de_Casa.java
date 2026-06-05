@@ -1,4 +1,4 @@
-package Trabajo_en_Clase;
+package TRABAJO_EN_CLASE.Patos;
 
 public class Pato_de_Casa extends Pato {
 

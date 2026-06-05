@@ -2,8 +2,8 @@ package Trabajo_en_Clase;
 
 public abstract class Pato{
 
-    private ComportamientoVuelo comportamientoVuelo;
-    private ComportamientoGraznido comportamientoGraznido;
+    protected ComportamientoVuelo comportamientoVuelo;
+    protected ComportamientoGraznido comportamientoGraznido;
 
     public void Nadar(){
         System.out.println("Estoy Nadando");
